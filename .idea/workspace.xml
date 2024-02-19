@@ -5,107 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b3b80f1-9fa2-4a50-9041-ebaa9daca3a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v0.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v1.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v10.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v11.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v12.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v13.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v14.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v15.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v16.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v17.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v18.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v19.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v2.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v20.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v21.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v22.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v23.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v24.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v25.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v26.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v27.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v28.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v29.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v3.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v30.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v31.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v32.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v33.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v34.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v35.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v36.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v37.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v38.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v39.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v4.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v40.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v41.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v42.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v43.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v44.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v45.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v46.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v47.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v48.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v49.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v5.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v50.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v51.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v52.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v53.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v54.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v55.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v56.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v57.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v58.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v59.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v6.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v60.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v61.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v62.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v63.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v64.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v65.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v66.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v67.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v68.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v69.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v7.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v70.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v71.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v72.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v73.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v74.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v75.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v76.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v77.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v78.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v79.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v8.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v80.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v81.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v82.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v83.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v84.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v85.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v86.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v87.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v88.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v89.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v9.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v90.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v91.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v92.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v93.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v94.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v95.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v96.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v97.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v98.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated_map/8x8v99.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CBS+Huristic/nodes-exp-cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CBS+Huristic/nodes-gen-cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CBS/node_gen_cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CBS/nodes-exp-cleaned.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/min-sum-of-cost.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/high_level_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/high_level_policy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2byZxXBPok7A9DSqBoRDf2AoO6u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -139,12 +45,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mahiv/PycharmProjects/Improved_cbs"
+    "last_opened_file_path": "C:/Users/mahiv/PycharmProjects/Huristic_CBS/data"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahiv\PycharmProjects\Huristic_CBS\data" />
+      <recent name="C:\Users\mahiv\PycharmProjects\Huristic_CBS" />
       <recent name="C:\Users\mahiv\PycharmProjects\Improved_cbs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahiv\PycharmProjects\Huristic_CBS\data\CBS+Huristic" />
     </key>
   </component>
   <component name="RunManager">

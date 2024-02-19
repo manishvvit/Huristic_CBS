@@ -7,37 +7,7 @@ from collections import defaultdict
 
 def HCBS(MAPF_instance, agents, use_pc=False,experiment_mode=False, max_time=300,
          low_level_policy=AStar, open_type=CTOpen, **kwargs):
-    """
-    :param MAPF_instance: variable of class Map, represents map with obstacles
-    :param agents: list of variables of class Agent, consisting of the start and goal coordinates
-    :param use_pc: flag that determines whether to use the conflict priority or not
-    :param experiment_mode: flag that determines the output format
-    :param max_time: variable defines the maximum running time of the function in seconds
-    :param low_level_policy: algorithm that finds the optimal path for each agent in agents
-    :param open_type: define open class to use for nodes processing
-    :param kwargs: additional parameters to be passed in the low_level policy
-    :return: (nodes_created, runtime) if experiment_mode else solution
-    """
-    #   use following pseudo code:
-    #       Input: MAPF instance
-    #       Root.constraints = ∅
-    #       Root.solution = find individual paths by the low level()
-    #       Root.cost = SIC(Root.solution)
-    #       insert Root to OPEN
-    #       while OPEN not empty do
-    #       P ← best node from OPEN // lowest solution cost
-    #       Validate the paths in P until a conflict occurs.
-    #       if P has no conflict then
-    #           return P.solution // P is goal
-    #       C ← first conflict (ai,a j, v,t) in P
-    #       foreach agent ai in C do
-    #           A ← new node
-    #           A.constraints ← P.constraints + (ai, v,t)
-    #           A.solution ← P.solution
-    #           Update A.solution by invoking low level(ai)
-    #           A.cost = SIC(A.solution)
-    #           if A.cost < ∞ // A solution was found then
-    #               Insert A to OPEN
+
 
     OPEN = open_type()
     entry = 0
